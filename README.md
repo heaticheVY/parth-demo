@@ -1,2 +1,2 @@
 # parth-demo
-This is my first repositiory
+This is my first repositiory.
